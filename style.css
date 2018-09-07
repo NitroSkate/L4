@@ -1,0 +1,64 @@
+root {
+    box-sizing: border-box;
+    font-size: calc(0.5em + 1vw);
+}
+
+*, 
+::before, 
+::after {
+    box-sizing: inherit;
+}
+
+body{
+    margin: auto 1em auto 1em;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.b1 nav dl dd{
+    display: inline;
+    margin-left: 1.5em;
+}
+
+.a2{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.a21{
+    
+}
+
+img{
+    width: 150%;
+    height: 150%;
+}
+ 
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+p>span{
+    font-weight: bold;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+h3{
+    font-family: sans-serif;
+}
+
+dd{
+    text-decoration: none;
+}
