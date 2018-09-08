@@ -4,7 +4,7 @@ root {
 }
 
 body{
-    margin: auto 2em auto 3em;
+    margin: 1em 2em 2em 3em;
 }
 
 header{
@@ -66,9 +66,10 @@ img{
  
 .a411{
     grid-column-start: 1;
-    grid-row-start: 3;
+    grid-row-start: 1;
     font-size: 4em;
     color: #f56a6a;
+    margin-top: .5em;
 }
 
 .a412{
@@ -86,9 +87,10 @@ img{
  
 .a421{
     grid-column-start: 1;
-    grid-row-start: 3;
+    grid-row-start: 1;
     font-size: 4em;
     color: #f56a6a;
+    margin-top: .5em;
 }
 
 .a422{
@@ -106,9 +108,10 @@ img{
  
 .a431{
     grid-column-start: 1;
-    grid-row-start: 3;
+    grid-row-start: 1;
     font-size: 4em;
     color: #f56a6a;
+    margin-top: .5em;
 }
 
 .a432{
@@ -126,9 +129,10 @@ img{
  
 .a441{
     grid-column-start: 1;
-    grid-row-start: 3;
+    grid-row-start: 1;
     font-size: 4em;
     color: #f56a6a;
+    margin-top: .5em;
 }
 
 .a442{
